@@ -1,0 +1,8 @@
+qiskit
+qiskit-ibm-runtime
+qiskit[visualization]
+qiskit-aer
+matplotlib
+qiskit-machine-learning
+torch
+numpy
